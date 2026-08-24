@@ -1,0 +1,112 @@
+[
+  {
+    "id": 1787580000001,
+    "title": "Sepete ekle butonu çalışmıyor",
+    "description": "Ürün detay sayfasında sepete ekle butonuna basıldığında ürün sepete eklenmiyor.",
+    "type": "bug",
+    "project": "E-Ticaret",
+    "assignee": "Kemal Yılmaz",
+    "priority": "high",
+    "status": "pending",
+    "createdAt": "2026-08-24T09:00:00.000Z"
+  },
+  {
+    "id": 1787580000002,
+    "title": "Karanlık mod özelliği eklensin",
+    "description": "Mobil uygulamaya kullanıcı tarafından seçilebilir karanlık tema özelliği eklenmeli.",
+    "type": "feature",
+    "project": "Mobil Bankacılık",
+    "assignee": "Zeynep Kaya",
+    "priority": "medium",
+    "status": "in-progress",
+    "createdAt": "2026-08-24T09:15:00.000Z"
+  },
+  {
+    "id": 1787580000003,
+    "title": "Login sonrası yönlendirme hatası",
+    "description": "Kullanıcı giriş yaptıktan sonra dashboard yerine tekrar login sayfasına yönlendiriliyor.",
+    "type": "bug",
+    "project": "CRM Sistemi",
+    "assignee": "Mehmet Demir",
+    "priority": "critical",
+    "status": "testing",
+    "createdAt": "2026-08-24T09:30:00.000Z"
+  },
+  {
+    "id": 1787580000004,
+    "title": "Profil fotoğrafı yükleme özelliği",
+    "description": "Kullanıcıların profil sayfasından profil fotoğrafı yükleyebilmesi sağlanmalı.",
+    "type": "feature",
+    "project": "Sosyal Medya Uygulaması",
+    "assignee": "Ayşe Çelik",
+    "priority": "low",
+    "status": "completed",
+    "createdAt": "2026-08-24T10:00:00.000Z"
+  },
+  {
+    "id": 1787580000005,
+    "title": "Şifre sıfırlama bağlantısı çalışmıyor",
+    "description": "Şifre sıfırlama e-postasındaki bağlantıya tıklandığında geçersiz token hatası alınıyor.",
+    "type": "bug",
+    "project": "E-Ticaret",
+    "assignee": "Kemal Yılmaz",
+    "priority": "high",
+    "status": "completed",
+    "createdAt": "2026-08-24T10:20:00.000Z"
+  },
+  {
+    "id": 1787580000006,
+    "title": "Bildirim sistemi eklensin",
+    "description": "Kullanıcılara yeni mesaj ve sistem bildirimlerinin gösterileceği bir bildirim sistemi geliştirilmeli.",
+    "type": "feature",
+    "project": "Sosyal Medya Uygulaması",
+    "assignee": "Zeynep Kaya",
+    "priority": "medium",
+    "status": "pending",
+    "createdAt": "2026-08-24T10:45:00.000Z"
+  },
+  {
+    "id": 1787580000007,
+    "title": "Sipariş detayları yanlış hesaplanıyor",
+    "description": "Birden fazla ürün içeren siparişlerde toplam tutar bazı durumlarda hatalı hesaplanıyor.",
+    "type": "bug",
+    "project": "E-Ticaret",
+    "assignee": "Mehmet Demir",
+    "priority": "critical",
+    "status": "in-progress",
+    "createdAt": "2026-08-24T11:00:00.000Z"
+  },
+  {
+    "id": 1787580000008,
+    "title": "Kullanıcı arama özelliği",
+    "description": "Yönetim paneline kullanıcı adı ve e-posta üzerinden arama yapılabilen bir özellik eklenmeli.",
+    "type": "feature",
+    "project": "CRM Sistemi",
+    "assignee": "Ayşe Çelik",
+    "priority": "medium",
+    "status": "testing",
+    "createdAt": "2026-08-24T11:30:00.000Z"
+  },
+  {
+    "id": 1787580000009,
+    "title": "Mobil menü responsive çalışmıyor",
+    "description": "Küçük ekranlarda navigasyon menüsü açıldığında bazı menü elemanları ekran dışında kalıyor.",
+    "type": "bug",
+    "project": "Kurumsal Web Sitesi",
+    "assignee": "Kemal Yılmaz",
+    "priority": "medium",
+    "status": "pending",
+    "createdAt": "2026-08-24T12:00:00.000Z"
+  },
+  {
+    "id": 1787580000010,
+    "title": "Excel rapor dışa aktarma özelliği",
+    "description": "Yönetim panelindeki raporların Excel dosyası olarak dışa aktarılabilmesi sağlanmalı.",
+    "type": "feature",
+    "project": "CRM Sistemi",
+    "assignee": "Zeynep Kaya",
+    "priority": "high",
+    "status": "completed",
+    "createdAt": "2026-08-24T12:30:00.000Z"
+  }
+]
