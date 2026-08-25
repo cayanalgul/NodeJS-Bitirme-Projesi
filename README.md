@@ -5,7 +5,7 @@
 Proje GitHub üzerinden indirilecekse terminalde aşağıdaki komut kullanılabilir:
 
 ```bash
-git clone PROJE_REPO_ADRESI
+git clone [PROJE_REPO_ADRESI](https://github.com/cayanalgul/NodeJS-Bitirme-Projesi.git)
 ```
 
 Daha sonra proje klasörüne girilir:
